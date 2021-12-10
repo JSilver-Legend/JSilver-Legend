@@ -16,9 +16,9 @@ Always trying to embrace new tech and everyone's opinion is welcome and expected
 
 ##
 ##### 2D/2.5D/3D Game Developer
-[ 3d Modeling | 3d Animation | 3d Designer | Game Designer | Game Level Designer | Game Developer ]<br>
+[ 3d Modeling | 3d Animation | 3d Designer | Game Design/Development | NFT/Slot Game ]<br>
 [ Unity3D | Three.js | Unreal | Cocos | C# | Javascript | 3ds Max | AutoCAD | SolidWorks | Vectorworks ] <br>
-[ ]<br><br>
+[ Web3 | Solidity | BlockChain | Smartcontract | Solana ]<br><br>
 If you have any questions, you are welcome anytime.
 
 ##
