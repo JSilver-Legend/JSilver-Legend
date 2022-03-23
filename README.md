@@ -5,7 +5,7 @@
 Talking about Personal Stuffs:
 
 - NickName: JSilver-Legend ( Web 3D Expert ).<br>
-- Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
+(https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 - Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
