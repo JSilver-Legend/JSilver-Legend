@@ -16,7 +16,7 @@ Always trying to embrace new tech and everyone's opinion is welcome and expected
 ##
 ##### Web GL/VR / Advanced WebProject Solution
 [ React.js | Angular | Vue.js | Laravel | Node.js | Express.js ] <br>
-[ Three.js | Babylon.js | Particle.js Unreal | Unity ] <br>
+[ Three.js | Babylon.js | Particle.js | Unity ] <br>
 [ 3d Modeling | 3d Animation | 3d Design | VR/AR ]<br>
 [ React Native | Flutter | Dart | Ionic ] <br>
 [ Web3 | Solidity | BlockChain | Smartcontract | Solana ]<br><br>
