@@ -5,7 +5,6 @@
 Talking about Personal Stuffs:
 
 - NickName: JSilver-Legend ( Web 3D Expert ).<br>
-(https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 - Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
