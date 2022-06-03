@@ -7,7 +7,7 @@ Talking about Personal Stuffs:
 - NickName: JSilver-Legend ( Web 3D Expert ).<br>
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 ##
-##### Web GL/VR / Advanced WebProject Solution
+##### Web GL/VR / Advanced WebProject Solution <br>
 [ React.js | Angular | Vue.js | Laravel | Node.js | Express.js ] <br>
 [ Three.js | Babylon.js | Particle.js | Unity ] <br>
 [ 3d Modeling | 3d Animation | 3d Design | VR/AR ]<br>
@@ -18,7 +18,7 @@ If you have any questions, you are welcome anytime.
 ##
 ##### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
+- [ app architecture | clean code | product design | continuous integration | task prioritization | Implement creative design ]
 
 ##
 ##### My skills
