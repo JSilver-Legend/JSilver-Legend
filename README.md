@@ -6,13 +6,6 @@ Talking about Personal Stuffs:
 
 - NickName: JSilver-Legend ( Web 3D Expert ).<br>
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- Articulate and professional communication skills, including formal presentations and technical documentation.<br>
-Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
-As a competent and experienced developer, <br>
-I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools in web and mobile development.<br>
-Productive in both team-based and self-managed projects: dedicated to keeping up-to-date industry knowledge and IT skills.<br>
-Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
-
 ##
 ##### Web GL/VR / Advanced WebProject Solution
 [ React.js | Angular | Vue.js | Laravel | Node.js | Express.js ] <br>
@@ -34,7 +27,6 @@ If you have any questions, you are welcome anytime.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="35" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
-<code><img height="35" src="https://bestofjs.org/logos/vuetify.svg"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
@@ -45,25 +37,11 @@ If you have any questions, you are welcome anytime.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <br>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
-<code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 </details>
 
