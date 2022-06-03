@@ -45,8 +45,6 @@ If you have any questions, you are welcome anytime.
 <br><br>
 </details>
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=JSilver-Legend&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true)
-
 ##
 ##### GitHub status
 <p align="center">
