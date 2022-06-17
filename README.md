@@ -45,9 +45,4 @@ If you have any questions, you are welcome anytime.
 <br><br>
 </details>
 
-##
-##### GitHub status
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JSilver-Legend&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSilver-Legend&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
-</p>
 
