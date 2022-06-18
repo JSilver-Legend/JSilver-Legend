@@ -13,7 +13,7 @@ Talking about Personal Stuffs:
 [ 3d Modeling | 3d Animation | 3d Design | VR/AR ]<br>
 [ React Native | Flutter | Dart | Ionic ] <br>
 [ Web3 | Solidity | BlockChain | Smartcontract | Solana ]<br><br>
-If you have any questions, you are welcome anytime.
+Please don't hesitate to contact me, if you need any help from me.
 
 ##
 ##### My mission
