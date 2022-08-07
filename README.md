@@ -16,7 +16,7 @@ Talking about Personal Stuffs:
 Please don't hesitate to contact me, if you need any help from me.
 
 If you have some question about webGL three.js project, Please join here.
-https://discord.gg/J9sCMmGX
+https://join.skype.com/invite/x8A5bDcNFdab
 
 You can get help from me quickly.
 
