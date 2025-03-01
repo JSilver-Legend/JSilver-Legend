@@ -4,10 +4,10 @@
 
 Talking about Personal Stuffs:
 
-- NickName: JSilver-Legend ( Web 3D Expert ).<br>
+- NickName: JSilver-Legend ( Web - Frontend / WebGL Developer ).<br>
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 ##
-##### Web GL/VR / Advanced WebProject Solution <br>
+##### Web Solution <br>
 [ React.js | Angular | Vue.js | Laravel | Node.js | Express.js ] <br>
 [ Three.js | Babylon.js | Particle.js | Unity ] <br>
 [ 3d Modeling | 3d Animation | 3d Design | VR/AR ]<br>
