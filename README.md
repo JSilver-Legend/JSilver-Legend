@@ -10,14 +10,8 @@ Talking about Personal Stuffs:
 ##### Web Solution <br>
 [ React.js | Angular | Vue.js | Laravel | Node.js | Express.js ] <br>
 [ Three.js | Babylon.js | Particle.js | Unity ] <br>
-[ 3d Modeling | 3d Animation | 3d Design | VR/AR ]<br>
 [ React Native | Flutter | Dart | Ionic ] <br>
-[ Web3 | Solidity | BlockChain | Smartcontract | Solana ]<br><br>
-Please don't hesitate to contact me, if you need any help from me.
 
-If you have some question about webGL three.js project, Please mail here.
-
-You can get help from me quickly.
 
 You are welcome!
 
