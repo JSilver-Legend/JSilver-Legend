@@ -1,5 +1,5 @@
 ## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Best Solution & Creative Idea
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Web+GL+VR+Expert;Senior+Front-end+Developer;Creative+3D+Artist)](https://git.io/typing-svg)
+
 
 
 Talking about Personal Stuffs:
